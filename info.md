@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EverDobra
+- 🎓 Currently I'm a university student in Bilkent University.
+- 👀 I’m interested in any technological device and how these devices works.
+- 🌱 I’m currently learning java and it's libraries.
+- 📫 How to reach me: berk.uyar@ug.bilkent.edu.tr
